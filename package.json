@@ -1,0 +1,18 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "description": "node crash course codealong",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Kerry Smart",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
